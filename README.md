@@ -1,6 +1,6 @@
 
 
-![](assets/p1.jpg)
+![](assets/p4.jpg)
 
 # PROJECT DETAIL:
 
