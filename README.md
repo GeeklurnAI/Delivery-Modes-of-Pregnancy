@@ -30,7 +30,7 @@
 
 ### ARCHITECTURE 
 
-![](assets/p2.jpg)
+![](assets/p2.jpg) 
 
 
 
